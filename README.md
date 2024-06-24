@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, sou o Toshiaki Okayama Filho👨‍💻
 
-<!--
-**okayamafilho/okayamafilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Android e apaixonado por tecnologia.
+### 👀 Estou buscando uma vaga no momento 👀
 
-Here are some ideas to get you started:
+## ⚡ Habilidades
+- Desenvolvimento Android (Java e Kotlin)
+- Arquiteturas MVC, MVP, MVVM
+- Clean Architecture
+- Injeção de dependências com Hilt
+- APis com Retrofit, Coroutines
+- Service e Broadcast
+- SOLID
+- Git e GitHub
+- Firebase, SQLite e SQL
+- Jetpack (LiveData, DataBinding, ViewModel, Room, WorkManager, Navigation e Compose)
+- Testes unitários e de integração
+- Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Entre em contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toshiaki-okayama-filho/)
