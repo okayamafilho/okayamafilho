@@ -1,6 +1,13 @@
 # Olá, sou o Toshiaki Okayama Filho👨‍💻
 
-Sou desenvolvedor Android e apaixonado por tecnologia.
+Olá, pode me chamar de Toshi! Tenho +18 anos de experiência profissional na área de TI e financeira em grandes empresas nacionais e multinacionais como Bradesco, Itaú, HSBC e Cielo.
+
+Comecei na área de TI em 2005 e desde então adoro resolver problemas complexos de programação e conhecer novas tecnologias.
+
+Tenho bacharelado em Sistemas de Informação, MBA em Gerenciamento de Projetos pela FGV, Pós-graduação em desenvolvimento de aplicativo mobile pela PUC PR, e atualmente estou fazendo mais um curso na área de desenvolvimento Android para ampliar minhas experiências em TI.
+
+Soft skills: resolução de problemas complexos, organização, flexibilidade, empatia e resiliência.
+
 ### 👀 Estou buscando uma vaga no momento 👀
 
 ## ⚡ Habilidades
