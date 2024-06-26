@@ -8,7 +8,7 @@ Tenho bacharelado em Sistemas de Informação, MBA em Gerenciamento de Projetos 
 
 Soft skills: resolução de problemas complexos, organização, flexibilidade, empatia e resiliência.
 
-### 👀 Estou buscando uma vaga no momento 👀
+### 👀 Estou buscando uma vaga no momento analista sistemas mainframe cobol/senior, analista de projetos TI ou desenvoliver app MOBILE ANDROID/IOS 👀
 
 ## ⚡ Habilidades
 - Desenvolvimento Android (Java e Kotlin)
